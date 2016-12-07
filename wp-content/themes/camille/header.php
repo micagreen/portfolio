@@ -32,7 +32,7 @@
 			});
 		});
 	</script>
-  <link rel="icon" type="image/png" href="<?php bloginfo('template_directory');?>/img/icon.gif">
+  <link rel="icon" type="image/gif" href="<?php bloginfo('template_directory');?>/img/icon.gif">
 </head>
 <body id="<?php the_id(); ?>">
   <nav class="navbar navbar-inverse navbar-fixed-top">
